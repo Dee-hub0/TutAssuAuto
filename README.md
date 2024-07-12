@@ -4,9 +4,9 @@
 
 Node.js - v18.0.0
 
-### Setup Instructions
+### Instructions
 
-- colnez le projet 'https://github.com/Dee-hub0/tetsos.git'
+- Colnez le projet 'https://github.com/Dee-hub0/tetsos.git'
 
 - Mettez-vous sur sur le dossier /client et executez 'npm install' pour l'installation des dépendences
 
