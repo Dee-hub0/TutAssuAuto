@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Glimer';
+    src: url('/fonts/glimer/otf/gilmer light.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+body {
+    font-family: 'Glimer', sans-serif;
+  }
+ 
+.max-w-45{
+  max-width: 45%;
+} 
+
+.max-w-65{
+  max-width: 65%;
+} 
+
+.max-w-50{
+  max-width: 50%;
+} 
